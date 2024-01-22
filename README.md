@@ -1,5 +1,7 @@
-# 02CourseProject
+# Course Project Version 1
 
+This is the Version 1 of the Udemy Angular Course (https://www.udemy.com/course/the-complete-guide-to-angular-2/) the course version of the 01/2024.
+The Code you see was closely followed to what is being teached.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
 ## Development server
